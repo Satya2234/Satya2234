@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Satya2234
-- 👀 I’m interested in C++, Java, Python
+- 👀 I’m interested in C++, Java, Python, HTML, CSS, JavaScript
 - 🌱 I’m currently learning - Bachelor's in Computer Scince 
 - 💞️ I’m looking to collaborate on All Softwere
 - 📫 How to reach me - bariksatyajit04@gmail.com
