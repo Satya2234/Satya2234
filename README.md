@@ -1,4 +1,4 @@
-![Logo](https://github.com/Satya2234/Satya2234/blob/main/Satyajit-Barik_Banner.png)
+![Logo](https://github.com/Satya2234/Satya2234/blob/main/Satyajit%20Barik-Banner.png).
 <h1 align="center">Hi 👋, I'm Satyajit Barik</h1>
 <h3 align="center">A passionate Master of Computer Application Student from India</h3>
 
