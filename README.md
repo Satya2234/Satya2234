@@ -6,9 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=satya2234&label=Profile%20views&color=0e75b6&style=flat" alt="satya2234" /> </p>
 
-- 🌱 I’m currently learning **Computer Application**
+- 🌱 I’m currently Working as**DevOps enginee**
 
-- 💬 Ask me about **C++,Java and Python**
+- 💬 Ask me about **Cloud,DevOps and SRE**
 
 - 📫 How to reach me **bariksatyajit04@gmail.com**
 
