@@ -43,52 +43,174 @@ Focused on reliability, automation, performance optimization, and production-gra
 
 ---
 
-## ☁️ Cloud & Platform Engineering
+## ☁️ Cloud Platforms
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=azure,openshift,kubernetes,docker,containerd,linux,nginx,apache,haproxy&perline=9" />
+  <img src="https://skillicons.dev/icons?i=azure,aws,gcp" />
 </p>
+
+**Additional Cloud Experience:**  
+Utho Cloud
 
 ---
 
-## ⚙️ Infrastructure as Code & Automation
+## 📦 Containerization & Orchestration
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=terraform,ansible,bash,python,git,githubactions&perline=6" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,helm,argo" />
 </p>
+
+**Also Experienced With:**  
+Kops • Docker Swarm • FluxCD • Tekton • Spinnaker • OpenShift
 
 ---
 
-## 🚀 CI/CD & GitOps
+## 🏗 Infrastructure as Code & Configuration Management
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=jenkins,argo,helm&perline=6" />
+  <img src="https://skillicons.dev/icons?i=terraform,ansible,aws" />
 </p>
+
+**Also Experienced With:**  
+Terraform Cloud • AWS CloudFormation
 
 ---
 
-## 🔐 Security & Secrets Management
+## 🚀 CI/CD & DevOps Tooling
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vault&perline=6" />
+  <img src="https://skillicons.dev/icons?i=jenkins,githubactions,gitlab,azuredevops,argo" />
 </p>
+
+**Also Experienced With:**  
+GitLab CI/CD • Argo Workflows • Bitbucket Pipelines
+
+---
+
+## ⚡ Serverless & Event-Driven
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,azure" />
+</p>
+
+**Technologies:**  
+AWS Lambda • Azure Functions • OpenFaaS • Apache OpenWhisk
+
+---
+
+## 🌐 Web Servers, Caching & Load Balancing
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nginx,apache,redis" />
+</p>
+
+**Also Experienced With:**  
+HAProxy • Varnish
 
 ---
 
 ## 📊 Monitoring, Logging & Observability
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=prometheus,grafana,elasticsearch,kibana,logstash&perline=6" />
+  <img src="https://skillicons.dev/icons?i=prometheus,grafana,elasticsearch,kibana,logstash" />
 </p>
+
+**Also Experienced With:**  
+Zabbix • Nagios • Azure Monitor • Datadog • New Relic
 
 ---
 
-## 💾 Storage & Distributed Systems
+## 🗄 Databases & Data Systems
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ceph,redis,rabbitmq,mysql,mongodb&perline=6" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis" />
 </p>
 
+**Also Experienced With:**  
+MariaDB • AWS DynamoDB
+
+---
+
+## 🔐 Security & Secrets Management
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vault,aws,azure" />
+</p>
+
+**Technologies:**  
+HashiCorp Vault • OpenBao • Azure Key Vault • AWS Secrets Manager  
+RBAC • SSL/TLS • OAuth
+
+---
+
+## 💻 Scripting & Markup
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=bash,powershell,python" />
+</p>
+
+YAML • JSON • Shell Scripting
+
+---
+
+## 🔁 Version Control Systems
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,bitbucket,azuredevops" />
+</p>
+
+Azure Repos
+
+---
+
+## 🖥 Operating Systems
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,windows" />
+</p>
+
+Ubuntu • CentOS • RHEL • Debian • Windows Server • macOS
+
+---
+
+## 🧠 System Administration & Storage Engineering
+
+- User & Permission Management
+- Package Management (apt, yum, dnf)
+- Process & Service Management (systemd)
+- Cron Jobs
+- File Systems & Storage Management
+- DRBD • ZFS • LVM
+- Linstor (DRBD-based Storage)
+- Linbit Storage Solutions
+
+---
+
+## 🏢 Virtualization & Infrastructure
+
+- Hyper-V
+- KVM
+- Proxmox VE
+- VM Provisioning & Migration
+- Rack & Stack Deployment
+- RAID Configuration
+- BIOS/UEFI Setup
+- iDRAC / iLO Management
+- Hardware Troubleshooting
+
+---
+
+## 🌐 Networking & Infrastructure Design
+
+- VPC Architecture
+- Subnets
+- Security Groups
+- Network Security Groups (NSGs)
+- VPN Configuration
+- Load Balancers
+- Firewall Configuration
+- DNS Management
+- TCP/IP Networking
 ---
 
 # 🚀 Enterprise Projects
