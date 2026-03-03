@@ -1,0 +1,110 @@
+# ☁️ Cloud
+
+A personal DevOps & Cloud Engineering repository where I document, build, and experiment with cloud infrastructure, Kubernetes clusters, storage integrations, and automation workflows.
+
+This repository represents my hands-on learning, production-style setups, and real-world infrastructure implementations.
+
+---
+
+## 👨‍💻 About Me
+
+DevOps Engineer with experience in:
+
+- Cloud Infrastructure
+- Kubernetes Administration
+- CI/CD Pipeline Automation
+- Linux Server Management
+- Storage & Networking Troubleshooting
+- Infrastructure Automation
+
+This repository showcases my practical implementations and automation scripts.
+
+---
+
+## 🚀 What You'll Find Here
+
+### 🔹 Kubernetes
+- Multi-node cluster setup (kubeadm)
+- containerd configuration
+- Worker auto-join automation
+- Cluster troubleshooting scripts
+- Monitoring & validation commands
+
+### 🔹 Cloud Infrastructure
+- VM provisioning workflows
+- Network configuration
+- Disk & IOPS validation
+- Resource monitoring
+
+### 🔹 Storage
+- S3-compatible object storage integration
+- Bucket & access-key configuration
+- Application file upload integration
+
+### 🔹 CI/CD
+- Jenkins setup
+- Docker image build pipelines
+- Deployment automation workflows
+
+### 🔹 Linux & Automation
+- Bash scripting
+- Service troubleshooting
+- Performance testing
+- System-level debugging
+
+---
+
+## 🛠️ Tech Stack
+
+- Kubernetes
+- Docker
+- Jenkins
+- Linux (Ubuntu / Debian)
+- Git & GitHub
+- Object Storage (S3 Compatible)
+- Shell Scripting
+
+---
+
+## 📂 Repository Structure
+
+Cloud/
+│
+├── kubernetes/
+├── storage/
+├── ci-cd/
+├── linux/
+└── automation-scripts/
+
+
+---
+
+## 🎯 Purpose of This Repository
+
+- Practice production-grade deployments  
+- Document real troubleshooting scenarios  
+- Build reusable automation scripts  
+- Strengthen cloud architecture skills  
+- Maintain a public DevOps portfolio  
+
+---
+
+## 📈 Continuous Improvement
+
+This repository is actively maintained and updated as I:
+
+- Learn new cloud technologies
+- Improve automation practices
+- Optimize infrastructure setups
+- Explore scalability & reliability patterns
+
+---
+
+## 📫 Connect With Me
+
+Satyajit Barik  
+DevOps Engineer | Cloud | Kubernetes | Automation
+
+---
+
+⭐ If you find something useful, feel free to fork or explore.
