@@ -1,31 +1,235 @@
-![Logo](https://github.com/Satya2234/Satya2234/blob/main/Satyajit%20Barik-Banner.png).
-<h1 align="center">Hi 👋, I'm Satyajit Barik</h1>
-<h3 align="center">A passionate Master of Computer Application Student from India</h3>
+![Logo](https://github.com/Satya2234/Satya2234/blob/main/Satyajit-Barik_Banner.png)
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<!-- ====================== ENTERPRISE DEVOPS PROFILE ====================== -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=satya2234&label=Profile%20views&color=0e75b6&style=flat" alt="satya2234" /> </p>
-
-- 🌱 I’m currently Working as**DevOps enginee**
-
-- 💬 Ask me about **Cloud,DevOps and SRE**
-
-- 📫 How to reach me **bariksatyajit04@gmail.com**
-
-- ⚡ Fun fact **I am Funny**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/satyajit barik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="satyajit barik" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@bariksatyajit04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@bariksatyajit04" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/bariksatyajit04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="bariksatyajit04" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Satyajit%20Barik&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Senior%20DevOps%20Engineer%20|%20Kubernetes%20|%20Cloud%20Infrastructure%20|%20Automation&descAlignY=58&descAlign=50"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.cockroachlabs.com/product/cockroachdb/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/cockroachdb.svg" alt="cockroachdb" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=satya2234&show_icons=true&locale=en&layout=compact" alt="satya2234" /></p>
+# 👋 Satyajit Barik
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=satya2234&show_icons=true&locale=en" alt="satya2234" /></p>
+### Senior DevOps Engineer | Kubernetes Specialist | Cloud Infrastructure Architect
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=satya2234&" alt="satya2234" /></p>
+---
+
+## 🧠 Executive Summary
+
+DevOps Engineer with **1+ years of hands-on production experience** designing, automating, and operating scalable cloud-native systems.
+
+Experienced in building Kubernetes clusters from scratch, automating infrastructure using Terraform, managing distributed storage systems, and leading cloud migrations (Azure → Utho Cloud).
+
+Focused on reliability, automation, performance optimization, and production-grade architecture.
+
+---
+
+# ⚙️ Core Expertise
+
+- Kubernetes cluster bootstrapping (kubeadm)
+- Cloud migration & workload portability
+- Infrastructure as Code (Terraform modular architecture)
+- CI/CD automation & GitOps workflows
+- Linux system administration & performance tuning
+- Storage engineering (RBD, DRBD, Linstor, Ceph)
+- Object Storage (S3 compatible)
+- Production troubleshooting & root cause analysis
+- Reverse proxy & load balancing architecture
+- High availability system design
+
+---
+
+# 🛠 Enterprise DevOps Technology Stack
+
+---
+
+## ☁️ Cloud Platforms
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=azure,aws,gcp" />
+</p>
+
+**Additional Cloud Experience:**  
+Utho Cloud
+
+---
+
+## 📦 Containerization & Orchestration
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,helm,argo" />
+</p>
+
+**Also Experienced With:**  
+Kops • Docker Swarm • FluxCD • Tekton • Spinnaker • OpenShift
+
+---
+
+## 🏗 Infrastructure as Code & Configuration Management
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=terraform,ansible,aws" />
+</p>
+
+**Also Experienced With:**  
+Terraform Cloud • AWS CloudFormation
+
+---
+
+## 🚀 CI/CD & DevOps Tooling
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=jenkins,githubactions,gitlab,azuredevops,argo" />
+</p>
+
+**Also Experienced With:**  
+GitLab CI/CD • Argo Workflows • Bitbucket Pipelines
+
+---
+
+## ⚡ Serverless & Event-Driven
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,azure" />
+</p>
+
+**Technologies:**  
+AWS Lambda • Azure Functions • OpenFaaS • Apache OpenWhisk
+
+---
+
+## 🌐 Web Servers, Caching & Load Balancing
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nginx,apache,redis" />
+</p>
+
+**Also Experienced With:**  
+HAProxy • Varnish
+
+---
+
+## 📊 Monitoring, Logging & Observability
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=prometheus,grafana,elasticsearch,kibana,logstash" />
+</p>
+
+**Also Experienced With:**  
+Zabbix • Nagios • Azure Monitor • Datadog • New Relic
+
+---
+
+## 🗄 Databases & Data Systems
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis" />
+</p>
+
+**Also Experienced With:**  
+MariaDB • AWS DynamoDB
+
+---
+
+## 🔐 Security & Secrets Management
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vault,aws,azure" />
+</p>
+
+**Technologies:**  
+HashiCorp Vault • OpenBao • Azure Key Vault • AWS Secrets Manager  
+RBAC • SSL/TLS • OAuth
+
+---
+
+## 💻 Scripting & Markup
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=bash,powershell,python" />
+</p>
+
+YAML • JSON • Shell Scripting
+
+---
+
+## 🔁 Version Control Systems
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,bitbucket,azuredevops" />
+</p>
+
+Azure Repos
+
+---
+
+## 🖥 Operating Systems
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,windows" />
+</p>
+
+Ubuntu • CentOS • RHEL • Debian • Windows Server • macOS
+
+---
+
+## 🧠 System Administration & Storage Engineering
+
+- User & Permission Management
+- Package Management (apt, yum, dnf)
+- Process & Service Management (systemd)
+- Cron Jobs
+- File Systems & Storage Management
+- DRBD • ZFS • LVM
+- Linstor (DRBD-based Storage)
+- Linbit Storage Solutions
+
+---
+
+## 🏢 Virtualization & Infrastructure
+
+- Hyper-V
+- KVM
+- Proxmox VE
+- VM Provisioning & Migration
+- Rack & Stack Deployment
+- RAID Configuration
+- BIOS/UEFI Setup
+- iDRAC / iLO Management
+- Hardware Troubleshooting
+
+---
+
+## 🌐 Networking & Infrastructure Design
+
+- VPC Architecture
+- Subnets
+- Security Groups
+- Network Security Groups (NSGs)
+- VPN Configuration
+- Load Balancers
+- Firewall Configuration
+- DNS Management
+- TCP/IP Networking
+---
+
+# 🚀 Enterprise Projects
+
+---
+
+## 1️⃣ Kubernetes Cluster Migration (Azure → Utho Cloud)
+
+### Objective
+Migrate production Kubernetes workloads from Azure to Utho Cloud with minimal downtime and optimized storage configuration.
+
+### Architecture Overview
+
+```mermaid
+flowchart LR
+    Dev[Developer] --> Git
+    Git --> Jenkins
+    Jenkins --> ContainerRegistry
+    ContainerRegistry --> AKSCluster
+    AKSCluster -. Migration .-> UthoK8s
+    UthoK8s --> ObjectStorage
+    UthoK8s --> EndUsers
