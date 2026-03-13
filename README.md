@@ -35,7 +35,7 @@
 name: Satyajit Barik
 role: Senior DevOps Engineer
 location: India 🇮🇳
-experience: "1+ years production-grade infrastructure"
+experience: "3+ years production-grade infrastructure"
 
 focus:
   - Kubernetes cluster engineering (kubeadm)
