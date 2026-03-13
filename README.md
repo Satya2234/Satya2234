@@ -1,233 +1,229 @@
-<!-- ====================== ENTERPRISE DEVOPS PROFILE ====================== -->
+<div align="center">
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Satyajit%20Barik&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Senior%20DevOps%20Engineer%20|%20Kubernetes%20|%20Cloud%20Infrastructure%20|%20Automation&descAlignY=58&descAlign=50"/>
-</p>
+```
+╔══════════════════════════════════════════════════════════════╗
+║  ██████╗ ███████╗██╗   ██╗ ██████╗ ██████╗ ███████╗        ║
+║  ██╔══██╗██╔════╝██║   ██║██╔═══██╗██╔══██╗██╔════╝        ║
+║  ██║  ██║█████╗  ██║   ██║██║   ██║██████╔╝███████╗        ║
+║  ██║  ██║██╔══╝  ╚██╗ ██╔╝██║   ██║██╔═══╝ ╚════██║        ║
+║  ██████╔╝███████╗ ╚████╔╝ ╚██████╔╝██║     ███████║        ║
+║  ╚═════╝ ╚══════╝  ╚═══╝   ╚═════╝ ╚═╝     ╚══════╝        ║
+╚══════════════════════════════════════════════════════════════╝
+```
 
----
+# `> Satyajit Barik`
 
-# 👋 Satyajit Barik
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&width=600&lines=Senior+DevOps+Engineer+%F0%9F%9A%80;Kubernetes+Specialist+%E2%98%B8;Cloud+Infrastructure+Architect+%E2%98%81%EF%B8%8F;Building+at+Scale+%E2%9A%A1" alt="Typing SVG" />
 
-### Senior DevOps Engineer | Kubernetes Specialist | Cloud Infrastructure Architect
+<br/>
 
----
+[![GitHub followers](https://img.shields.io/github/followers/satyajitbarik?style=for-the-badge&color=00d9ff&labelColor=0d1117&logo=github)](https://github.com/satyajitbarik)
+![Profile Views](https://komarev.com/ghpvc/?username=satyajitbarik&style=for-the-badge&color=00d9ff&labelColor=0d1117)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://linkedin.com)
 
-## 🧠 Executive Summary
-
-DevOps Engineer with **1+ years of hands-on production experience** designing, automating, and operating scalable cloud-native systems.
-
-Experienced in building Kubernetes clusters from scratch, automating infrastructure using Terraform, managing distributed storage systems, and leading cloud migrations (Azure → Utho Cloud).
-
-Focused on reliability, automation, performance optimization, and production-grade architecture.
-
----
-
-# ⚙️ Core Expertise
-
-- Kubernetes cluster bootstrapping (kubeadm)
-- Cloud migration & workload portability
-- Infrastructure as Code (Terraform modular architecture)
-- CI/CD automation & GitOps workflows
-- Linux system administration & performance tuning
-- Storage engineering (RBD, DRBD, Linstor, Ceph)
-- Object Storage (S3 compatible)
-- Production troubleshooting & root cause analysis
-- Reverse proxy & load balancing architecture
-- High availability system design
+</div>
 
 ---
 
-# 🛠 Enterprise DevOps Technology Stack
+<div align="center">
+
+## ⚡ `whoami`
+
+</div>
+
+```yaml
+name: Satyajit Barik
+role: Senior DevOps Engineer
+location: India 🇮🇳
+experience: "1+ years production-grade infrastructure"
+
+focus:
+  - Kubernetes cluster engineering (kubeadm)
+  - Cloud migrations & workload portability
+  - Infrastructure as Code (Terraform)
+  - CI/CD automation & GitOps
+  - Storage engineering (Ceph · Linstor · DRBD)
+
+currently:
+  building: "Production K8s clusters on Utho Cloud"
+  migrating: "Azure → Utho Cloud workloads"
+  automating: "Everything that can be automated"
+
+philosophy: "Reliability is a feature. Automation is the product."
+```
 
 ---
 
-## ☁️ Cloud Platforms
+## 🗂 Featured Projects
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=azure,aws,gcp" />
-</p>
+<table>
+<tr>
+<td width="50%">
 
-**Additional Cloud Experience:**  
-Utho Cloud
+### ☸️ K8s Cloud Migration
+**Azure → Utho Cloud**
 
----
+Production Kubernetes workload migration with zero-downtime cutover, optimized storage via Linstor, and GitOps-driven deployment pipeline.
 
-## 📦 Containerization & Orchestration
+`Kubernetes` `Linstor` `Jenkins` `Terraform`
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,helm,argo" />
-</p>
+</td>
+<td width="50%">
 
-**Also Experienced With:**  
-Kops • Docker Swarm • FluxCD • Tekton • Spinnaker • OpenShift
+### 🏗 Terraform Modular IaC
+**Multi-Cloud Infrastructure**
 
----
+Reusable, versioned Terraform modules for provisioning VPCs, subnets, security groups, and managed services across Azure, AWS, and Utho Cloud.
 
-## 🏗 Infrastructure as Code & Configuration Management
+`Terraform` `Azure` `AWS` `GitOps`
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=terraform,ansible,aws" />
-</p>
+</td>
+</tr>
+<tr>
+<td width="50%">
 
-**Also Experienced With:**  
-Terraform Cloud • AWS CloudFormation
+### 📦 Object Storage Platform
+**S3-Compatible at Scale**
 
----
+Self-hosted S3-compatible object storage layer integrated with Kubernetes workloads, handling production traffic with high durability.
 
-## 🚀 CI/CD & DevOps Tooling
+`Ceph` `S3` `Kubernetes` `Linux`
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=jenkins,githubactions,gitlab,azuredevops,argo" />
-</p>
+</td>
+<td width="50%">
 
-**Also Experienced With:**  
-GitLab CI/CD • Argo Workflows • Bitbucket Pipelines
+### 🔁 Full CI/CD GitOps Pipeline
+**End-to-End Automation**
 
----
+Jenkins → Container Registry → ArgoCD deployment pipeline with automated rollbacks, health checks, and Slack alerting.
 
-## ⚡ Serverless & Event-Driven
+`Jenkins` `ArgoCD` `GitHub Actions` `Helm`
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,azure" />
-</p>
-
-**Technologies:**  
-AWS Lambda • Azure Functions • OpenFaaS • Apache OpenWhisk
+</td>
+</tr>
+</table>
 
 ---
 
-## 🌐 Web Servers, Caching & Load Balancing
+## 🛠 Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nginx,apache,redis" />
-</p>
+<div align="center">
 
-**Also Experienced With:**  
-HAProxy • Varnish
+### Cloud & Orchestration
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
 
----
+### Infrastructure as Code
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 
-## 📊 Monitoring, Logging & Observability
+### CI/CD
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=prometheus,grafana,elasticsearch,kibana,logstash" />
-</p>
+### Observability
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+![Kibana](https://img.shields.io/badge/Kibana-E8488B?style=for-the-badge&logo=kibana&logoColor=white)
 
-**Also Experienced With:**  
-Zabbix • Nagios • Azure Monitor • Datadog • New Relic
+### Storage & Databases
+![Ceph](https://img.shields.io/badge/Ceph-EF5C55?style=for-the-badge&logo=ceph&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
----
+### Security
+![Vault](https://img.shields.io/badge/HashiCorp_Vault-FFEC6E?style=for-the-badge&logo=vault&logoColor=black)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
-## 🗄 Databases & Data Systems
+### Scripting
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis" />
-</p>
-
-**Also Experienced With:**  
-MariaDB • AWS DynamoDB
-
----
-
-## 🔐 Security & Secrets Management
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=vault,aws,azure" />
-</p>
-
-**Technologies:**  
-HashiCorp Vault • OpenBao • Azure Key Vault • AWS Secrets Manager  
-RBAC • SSL/TLS • OAuth
-
----
-
-## 💻 Scripting & Markup
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=bash,powershell,python" />
-</p>
-
-YAML • JSON • Shell Scripting
+</div>
 
 ---
 
-## 🔁 Version Control Systems
+## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,bitbucket,azuredevops" />
-</p>
+<div align="center">
 
-Azure Repos
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=satyajitbarik&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=ffffff"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyajitbarik&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=ffffff"/>
 
----
+<br/>
 
-## 🖥 Operating Systems
+[![GitHub Streak](https://streak-stats.demolab.com?user=satyajitbarik&theme=tokyonight&hide_border=true&background=0d1117&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff)](https://git.io/streak-stats)
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,windows" />
-</p>
-
-Ubuntu • CentOS • RHEL • Debian • Windows Server • macOS
+</div>
 
 ---
 
-## 🧠 System Administration & Storage Engineering
+## 🏛 Core Competencies
 
-- User & Permission Management
-- Package Management (apt, yum, dnf)
-- Process & Service Management (systemd)
-- Cron Jobs
-- File Systems & Storage Management
-- DRBD • ZFS • LVM
-- Linstor (DRBD-based Storage)
-- Linbit Storage Solutions
-
----
-
-## 🏢 Virtualization & Infrastructure
-
-- Hyper-V
-- KVM
-- Proxmox VE
-- VM Provisioning & Migration
-- Rack & Stack Deployment
-- RAID Configuration
-- BIOS/UEFI Setup
-- iDRAC / iLO Management
-- Hardware Troubleshooting
-
----
-
-## 🌐 Networking & Infrastructure Design
-
-- VPC Architecture
-- Subnets
-- Security Groups
-- Network Security Groups (NSGs)
-- VPN Configuration
-- Load Balancers
-- Firewall Configuration
-- DNS Management
-- TCP/IP Networking
----
-
-# 🚀 Enterprise Projects
+```
+╭─────────────────────────────────────────────────────────────╮
+│  INFRASTRUCTURE          PLATFORM                           │
+│  ├─ Kubernetes (kubeadm) ├─ CI/CD (Jenkins, ArgoCD)        │
+│  ├─ Terraform IaC        ├─ GitOps workflows                │
+│  ├─ Cloud Migration      ├─ Container registries            │
+│  └─ HA System Design     └─ Secrets management (Vault)     │
+│                                                              │
+│  STORAGE                 RELIABILITY                        │
+│  ├─ Ceph / RBD           ├─ Prometheus + Grafana            │
+│  ├─ DRBD / Linstor       ├─ ELK Stack                      │
+│  ├─ S3-compatible        ├─ On-call & RCA                   │
+│  └─ ZFS / LVM            └─ SLI/SLO implementation         │
+│                                                              │
+│  NETWORKING              SECURITY                           │
+│  ├─ VPC / Subnet design  ├─ RBAC & least privilege          │
+│  ├─ Load balancers       ├─ SSL/TLS management              │
+│  ├─ DNS management       ├─ Network security groups         │
+│  └─ Firewall / NSG       └─ OAuth / Zero-trust concepts     │
+╰─────────────────────────────────────────────────────────────╯
+```
 
 ---
 
-## 1️⃣ Kubernetes Cluster Migration (Azure → Utho Cloud)
-
-### Objective
-Migrate production Kubernetes workloads from Azure to Utho Cloud with minimal downtime and optimized storage configuration.
-
-### Architecture Overview
+## 🗺 Architecture Snapshot
 
 ```mermaid
 flowchart LR
-    Dev[Developer] --> Git
-    Git --> Jenkins
-    Jenkins --> ContainerRegistry
-    ContainerRegistry --> AKSCluster
-    AKSCluster -. Migration .-> UthoK8s
-    UthoK8s --> ObjectStorage
-    UthoK8s --> EndUsers
+    Dev(["👨‍💻 Developer"]) -->|git push| Git(["📁 Git Repo"])
+    Git -->|webhook| CI(["⚙️ Jenkins / GH Actions"])
+    CI -->|build & push| Reg(["📦 Container Registry"])
+    Reg -->|sync| Argo(["🔄 ArgoCD"])
+    Argo -->|deploy| K8s(["☸️ Kubernetes Cluster"])
+    K8s -->|metrics| Obs(["📊 Prometheus + Grafana"])
+    K8s -->|logs| ELK(["📋 ELK Stack"])
+    K8s -->|persist| Stor(["💾 Ceph / Linstor"])
+    K8s --> Users(["🌐 End Users"])
+```
+
+---
+
+<div align="center">
+
+### `> Let's build something reliable.`
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:satyajit@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/satyajitbarik)
+
+<br/>
+
+*"Automate the boring. Architect for failure. Ship with confidence."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a2a3a,100:0d1117&height=120&section=footer"/>
+
+</div>
