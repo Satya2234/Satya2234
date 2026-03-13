@@ -1,5 +1,3 @@
-![Logo](https://github.com/Satya2234/Satya2234/blob/main/Satyajit-Barik_Banner.png)
-
 <!-- ====================== ENTERPRISE DEVOPS PROFILE ====================== -->
 
 <p align="center">
